@@ -1,0 +1,24 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "d:/其他软件/STM32F103-指南者/A盘（资料盘）/4-配套模块资料/蓝牙/野火【蓝牙_HC05】模块资料/1-配套参考资料和代码/ebf_bluetooth_hc05_20221026/开发板配套例程/F103指南者开发板/1.HC05AT指令测试程序/User/LCD",
+      "program": "d:/其他软件/STM32F103-指南者/A盘（资料盘）/4-配套模块资料/蓝牙/野火【蓝牙_HC05】模块资料/1-配套参考资料和代码/ebf_bluetooth_hc05_20221026/开发板配套例程/F103指南者开发板/1.HC05AT指令测试程序/User/LCD/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
